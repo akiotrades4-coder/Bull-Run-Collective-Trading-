@@ -1,48 +1,4 @@
-Bruce Wayne
-itsbatman0628
-Invisible
 
-
-
-
-
-Direct Message
-
-o0hp0o
-o0hp0o
-Search o0hp0o
-
-chat
-March 15, 2026
-
-o0hp0o — Yesterday at 10:36 PMSunday, March 15, 2026 10:36 PM
-does it auto create this file
-[10:36 PM]Sunday, March 15, 2026 10:36 PM
-bot_status.txt
-
-Bruce Wayne [WOLF], WOLF — Yesterday at 10:37 PMSunday, March 15, 2026 10:37 PM
-no it dont
-
-o0hp0o — Yesterday at 10:38 PMSunday, March 15, 2026 10:38 PM
-theres also another file it tries to ready
-[10:38 PM]Sunday, March 15, 2026 10:38 PM
-read
-[10:38 PM]Sunday, March 15, 2026 10:38 PM
-trades.csv
-[10:38 PM]Sunday, March 15, 2026 10:38 PM
-it might error out if it doesnt exist
-
-Bruce Wayne [WOLF], WOLF — Yesterday at 10:39 PMSunday, March 15, 2026 10:39 PM
-
-
-o0hp0o — Yesterday at 10:40 PMSunday, March 15, 2026 10:40 PM
-ohh there a startj file your missing
-[10:40 PM]Sunday, March 15, 2026 10:40 PM
-is it in the github repo?
-
-Bruce Wayne [WOLF], WOLF — Yesterday at 10:42 PMSunday, March 15, 2026 10:42 PM
-i dont think i see it
-[10:44 PM]Sunday, March 15, 2026 10:44 PM
 [{"message":"","timestamp":"2026-03-16T03:38:41.199613199Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"\u001b[35m[Region: asia-southeast1]\u001b[0m","timestamp":"2026-03-16T03:38:45.603073718Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616108793Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"\u001b[38;2;125;86;243m╭─────────────────╮\u001b[0m","timestamp":"2026-03-16T03:38:45.616169643Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"\u001b[38;2;125;86;243m│\u001b[0m Railpack 0.18.0 \u001b[38;2;125;86;243m│\u001b[0m","timestamp":"2026-03-16T03:38:45.616176591Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"\u001b[38;2;125;86;243m╰─────────────────╯\u001b[0m","timestamp":"2026-03-16T03:38:45.616181678Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616189211Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"\u001b[33m⚠ Script start.sh not found\u001b[0m","timestamp":"2026-03-16T03:38:45.616193743Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"\u001b[1;31m✖ Railpack could not determine how to build the app.\u001b[0m","timestamp":"2026-03-16T03:38:45.616198156Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616203006Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"The following languages are supported:","timestamp":"2026-03-16T03:38:45.616207370Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Php","timestamp":"2026-03-16T03:38:45.616211373Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Golang","timestamp":"2026-03-16T03:38:45.616215380Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Java","timestamp":"2026-03-16T03:38:45.616219589Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Rust","timestamp":"2026-03-16T03:38:45.616223889Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Ruby","timestamp":"2026-03-16T03:38:45.616228010Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Elixir","timestamp":"2026-03-16T03:38:45.616232243Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Python","timestamp":"2026-03-16T03:38:45.616236423Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Deno","timestamp":"2026-03-16T03:38:45.616240567Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Dotnet","timestamp":"2026-03-16T03:38:45.616244474Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Node","timestamp":"2026-03-16T03:38:45.616248331Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Gleam","timestamp":"2026-03-16T03:38:45.616252548Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Cpp","timestamp":"2026-03-16T03:38:45.616256756Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Staticfile","timestamp":"2026-03-16T03:38:45.616261864Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Shell","timestamp":"2026-03-16T03:38:45.616266025Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616270374Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"The app contents that Railpack analyzed contains:","timestamp":"2026-03-16T03:38:45.616274456Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616278379Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"./","timestamp":"2026-03-16T03:38:45.616282301Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"├── .gitignore","timestamp":"2026-03-16T03:38:45.616287279Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"└── README.md","timestamp":"2026-03-16T03:38:45.616291566Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616295534Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"Check out the docs for more information: https://railpack.com","timestamp":"2026-03-16T03:38:45.616299805Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616303942Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616308076Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}},{"message":"","timestamp":"2026-03-16T03:38:45.616311952Z","severity":"info","tags":{"serviceId":"a0b44236-23ae-47a1-86ff-65cb199ab7a0","deploymentId":null,"deploymentInstanceId":null},"attributes":{"level":"info"}}]
 message.txt
 message.txt (9 KB)
