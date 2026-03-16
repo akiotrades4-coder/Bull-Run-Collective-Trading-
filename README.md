@@ -1,17 +1,7 @@
-TradingView Alerts
-        │
-        │ webhook
-        ▼
-Railway Web Server (FastAPI)
-        │
-        ▼
-Strategy Engine
-        │
-        ▼
-Exchange API
-        │
-        ▼
-Trade Execution
-        │
-        ▼
-Discord Alerts / Dashboard
+railway-trading-dashboard/
+│
+├ dashboard.py
+├ bot.py
+├ bot_control.txt
+├ requirements.txt
+└ Procfile
